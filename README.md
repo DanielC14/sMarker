@@ -1,4 +1,4 @@
-# sMarker
+![sMarker](logo.png)
 
 ## Introduction
 
